@@ -171,14 +171,14 @@ header {
 
 .login .form-details {
   padding: 0 40px;
-  background: url(/images/login-img.jpg);
+  background: url("images/login-img.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .signup .form-details {
   padding: 0 20px;
-  background: url(/images/signup-img.jpg);
+  background: url("images/signup-img.jpg");
   background-size: cover;
   background-position: center;
 }
